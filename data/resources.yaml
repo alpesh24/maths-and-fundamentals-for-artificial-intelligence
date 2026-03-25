@@ -1,0 +1,437 @@
+schema_version: 1
+generated_on: 2026-03-25
+source_files:
+  - 'c:/Users/alpesh/Desktop/deep-research-report.md'
+  - 'areas/**/README.md'
+
+areas:
+  - id: algorithms
+    title: Algorithms
+    domain: core-cs
+    readme_path: 'areas/core-cs/algorithms/README.md'
+    local_books_dir: 'books/core-cs/algorithms'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://www.coursera.org/specializations/algorithms'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/syllabus/'
+        - label: Course 3
+          url: 'https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/'
+        - label: Course 4
+          url: 'https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/'
+        - label: Course 5
+          url: 'https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/'
+      literature:
+        - label: Literature 1
+          url: 'https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf'
+        - label: Literature 2
+          url: 'https://dokumen.pub/introduction-to-algorithms-3nbsped-9780262033848.html'
+        - label: Literature 3
+          url: 'https://www.cs.mcgill.ca/~akroit/math/compsci/Cormen%20Introduction%20to%20Algorithms.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Introduction to Algorithms - 3rd Edition'
+        file_name: 'Introduction to Algorithms - 3rd Edition.pdf'
+        path: 'books/core-cs/algorithms/Introduction to Algorithms - 3rd Edition.pdf'
+
+  - id: computational-geometry
+    title: Computational Geometry
+    domain: core-cs
+    readme_path: 'areas/core-cs/computational-geometry/README.md'
+    local_books_dir: 'books/core-cs/computational-geometry'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/'
+      literature:
+        - label: Literature 1
+          url: 'https://www.cs.cmu.edu/afs/cs/academic/class/15456-s14/Handouts/BKOS.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Computational Geometry 3rd'
+        file_name: 'Computational Geometry 3rd.pdf'
+        path: 'books/core-cs/computational-geometry/Computational Geometry 3rd.pdf'
+
+  - id: discrete-optimization
+    title: Discrete Optimization
+    domain: core-cs
+    readme_path: 'areas/core-cs/discrete-optimization/README.md'
+    local_books_dir: 'books/core-cs/discrete-optimization'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/'
+      literature:
+        - label: Literature 1
+          url: 'https://raw.githubusercontent.com/jon77lee/JLee_LinearOptimizationBook/master/JLee.4.0.pdf'
+        - label: Literature 2
+          url: 'https://homepages.cwi.nl/~lex/files/dict.pdf'
+        - label: Literature 3
+          url: 'https://www.scribd.com/document/783758449/Combinatorial-Optimization-Algorithms-and-Complexity-Christos-H-Papadimitriou-Kenneth-Steiglitz-Z-Library'
+      other_resources: []
+    local_books:
+      - title: 'dict'
+        file_name: 'dict.pdf'
+        path: 'books/core-cs/discrete-optimization/dict.pdf'
+      - title: 'JLee.4.0'
+        file_name: 'JLee.4.0.pdf'
+        path: 'books/core-cs/discrete-optimization/JLee.4.0.pdf'
+
+  - id: linear-algebra
+    title: Linear Algebra
+    domain: core-math
+    readme_path: 'areas/core-math/linear-algebra/README.md'
+    local_books_dir: 'books/core-math/linear-algebra'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/'
+      literature:
+        - label: Literature 1
+          url: 'https://ia802906.us.archive.org/18/items/StrangG.LinearAlgebraAndItsApplications45881001/%5BStrang_G.%5D_Linear_algebra_and_its_applications%284%29%5B5881001%5D.pdf'
+        - label: Literature 2
+          url: 'https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/linear-algebra-author-gilbert-strang.pdf'
+        - label: Literature 3
+          url: 'https://dokumen.pub/linear-algebra-and-learning-from-data-1nbsped-0692196382-9780692196380.html'
+        - label: Literature 4
+          url: 'https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Gilbert Strang Linear Algebra and Its Applications'
+        file_name: 'Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf'
+        path: 'books/core-math/linear-algebra/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf'
+      - title: 'Linear Algebra Author Gilbert Strang'
+        file_name: 'linear-algebra-author-gilbert-strang.pdf'
+        path: 'books/core-math/linear-algebra/linear-algebra-author-gilbert-strang.pdf'
+
+  - id: probability-and-statistics
+    title: Probability and Statistics
+    domain: core-math
+    readme_path: 'areas/core-math/probability-and-statistics/README.md'
+    local_books_dir: 'books/core-math/probability-and-statistics'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/pages/part-i-the-fundamentals/'
+      literature:
+        - label: Literature 1
+          url: 'https://ece307.cankaya.edu.tr/uploads/files/introduction%20to%20probability%20(bertsekas,%202nd,%202008).pdf'
+        - label: Literature 2
+          url: 'https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Introduction to Probability 2nd Edition'
+        file_name: 'Introduction to Probability 2nd Edition.pdf'
+        path: 'books/core-math/probability-and-statistics/Introduction to Probability 2nd Edition.pdf'
+
+  - id: real-analysis
+    title: Real Analysis
+    domain: core-math
+    readme_path: 'areas/core-math/real-analysis/README.md'
+    local_books_dir: 'books/core-math/real-analysis'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/pages/calendar/'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/'
+      literature:
+        - label: Literature 1
+          url: 'https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf'
+        - label: Literature 2
+          url: 'https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf'
+        - label: Literature 3
+          url: 'http://tomlr.free.fr/Math%E9matiques/Fichiers%20Claude/Auteurs/Rudin/Real%20And%20Complex%20Analysis%20(Rudin)(1).pdf'
+      other_resources: []
+    local_books:
+      - title: 'Principles of Mathematical Analysis'
+        file_name: 'principles-of-mathematical-analysis-3nbsped-007054235x_compress.pdf'
+        path: 'books/core-math/real-analysis/principles-of-mathematical-analysis-3nbsped-007054235x_compress.pdf'
+      - title: 'Real and Complex Analysis Rudin'
+        file_name: 'Real And Complex Analysis (Rudin)(1).pdf'
+        path: 'books/core-math/real-analysis/Real And Complex Analysis (Rudin)(1).pdf'
+
+  - id: functional-analysis
+    title: Functional Analysis
+    domain: core-math
+    readme_path: 'areas/core-math/functional-analysis/README.md'
+    local_books_dir: 'books/core-math/functional-analysis'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2009/'
+        - label: Course 3
+          url: 'https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/'
+      literature:
+        - label: Literature 1
+          url: 'https://59clc.wordpress.com/wp-content/uploads/2012/08/functional-analysis-_-rudin-2th.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Functional Analysis Rudin 2th'
+        file_name: 'functional-analysis-_-rudin-2th.pdf'
+        path: 'books/core-math/functional-analysis/functional-analysis-_-rudin-2th.pdf'
+
+  - id: graph-theory
+    title: Graph Theory
+    domain: core-math
+    readme_path: 'areas/core-math/graph-theory/README.md'
+    local_books_dir: 'books/core-math/graph-theory'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/pages/syllabus/'
+      literature:
+        - label: Literature 1
+          url: 'https://yufeizhao.com/gtacbook/gtacbook.pdf'
+        - label: Literature 2
+          url: 'https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Graph Theory and Additive Combinatorics'
+        file_name: 'Graph theory and additive combinatorics.pdf'
+        path: 'books/core-math/graph-theory/Graph theory and additive combinatorics.pdf'
+      - title: 'GRL Book'
+        file_name: 'GRL_Book.pdf'
+        path: 'books/core-math/graph-theory/GRL_Book.pdf'
+
+  - id: numerical-optimization
+    title: Numerical Optimization
+    domain: core-optimization-signals
+    readme_path: 'areas/core-optimization-signals/numerical-optimization/README.md'
+    local_books_dir: 'books/core-optimization-signals/numerical-optimization'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/6-079-introduction-to-convex-optimization-fall-2009/'
+      literature:
+        - label: Literature 1
+          url: 'https://web.stanford.edu/~boyd/cvxbook/'
+        - label: Literature 2
+          url: 'http://www.athenasc.com/convexduality.html'
+        - label: Literature 3
+          url: 'https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Boyd and Vandenberghe Convex Optimization'
+        file_name: 'bv_cvxbook.pdf'
+        path: 'books/core-optimization-signals/numerical-optimization/bv_cvxbook.pdf'
+
+  - id: signals-and-systems
+    title: Signals and Systems
+    domain: core-optimization-signals
+    readme_path: 'areas/core-optimization-signals/signals-and-systems/README.md'
+    local_books_dir: 'books/core-optimization-signals/signals-and-systems'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/'
+      literature:
+        - label: Literature 1
+          url: 'https://github.com/gigahidjrikaaa/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf'
+        - label: Literature 2
+          url: 'https://archive.org/details/signalssystems0000oppe'
+      other_resources: []
+    local_books:
+      - title: 'Oppenheim Signals and Systems'
+        file_name: 'Oppenheim - Signals and Systems.pdf'
+        path: 'books/core-optimization-signals/signals-and-systems/Oppenheim - Signals and Systems.pdf'
+
+  - id: statistical-learning
+    title: Statistical Learning
+    domain: core-ml
+    readme_path: 'areas/core-ml/statistical-learning/README.md'
+    local_books_dir: 'books/core-ml/statistical-learning'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2006/'
+      literature:
+        - label: Literature 1
+          url: 'https://storage.googleapis.com/kaggle-forum-message-attachments/607875/14017/ISLR%20Sixth%20Printing.pdf'
+        - label: Literature 2
+          url: 'https://github.com/avinwu/ml-books/blob/master/An%20Introduction%20to%20Statistical%20Learning%20-%20Gareth%20James.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Introduction to Statistical Learning'
+        file_name: 'Introduction to Statistical Learning.pdf'
+        path: 'books/core-ml/statistical-learning/Introduction to Statistical Learning.pdf'
+
+  - id: machine-learning
+    title: Machine Learning
+    domain: core-ml
+    readme_path: 'areas/core-ml/machine-learning/README.md'
+    local_books_dir: 'books/core-ml/machine-learning'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/'
+        - label: Course 2
+          url: 'https://www.coursera.org/specializations/machine-learning-introduction'
+      literature:
+        - label: Literature 1
+          url: 'https://archive.org/details/patternrecogniti0000bish'
+      other_resources: []
+    local_books:
+      - title: 'Pattern Recognition and Machine Learning'
+        file_name: 'Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf'
+        path: 'books/core-ml/machine-learning/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf'
+
+  - id: pgm
+    title: Probabilistic Graphical Models
+    domain: core-ml
+    readme_path: 'areas/core-ml/pgm/README.md'
+    local_books_dir: 'books/core-ml/pgm'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://www.coursera.org/specializations/probabilistic-graphical-models'
+        - label: Course 2
+          url: 'https://www.youtube.com/playlist?list=PLBAGcD3siRDjiQ5VZQ8t0C7jkHQ8fhuq8'
+      literature:
+        - label: Literature 1
+          url: 'http://mcb111.org/w06/KollerFriedman.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Koller Friedman PGM'
+        file_name: 'KollerFriedman PGM.pdf'
+        path: 'books/core-ml/pgm/KollerFriedman PGM.pdf'
+
+  - id: deep-learning
+    title: Deep Learning
+    domain: core-ml
+    readme_path: 'areas/core-ml/deep-learning/README.md'
+    local_books_dir: 'books/core-ml/deep-learning'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://www.coursera.org/specializations/deep-learning'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/'
+      literature:
+        - label: Literature 1
+          url: 'https://aikosh.indiaai.gov.in/static/Deep+Learning+Ian+Goodfellow.pdf'
+      other_resources:
+        - label: Resource 1
+          url: 'https://ruder.io/optimizing-gradient-descent/'
+    local_books:
+      - title: 'Deep Learning Ian Goodfellow'
+        file_name: 'Deep+Learning+Ian+Goodfellow.pdf'
+        path: 'books/core-ml/deep-learning/Deep+Learning+Ian+Goodfellow.pdf'
+      - title: 'Deep Learning Goodfellow Bengio Courville'
+        file_name: 'Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning.pdf'
+        path: 'books/core-ml/deep-learning/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning.pdf'
+
+  - id: image-processing
+    title: Image Processing
+    domain: vision-stack
+    readme_path: 'areas/vision-stack/image-processing/README.md'
+    local_books_dir: 'books/vision-stack/image-processing'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://ocw.mit.edu/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/'
+      literature:
+        - label: Literature 1
+          url: 'https://www.hlevkin.com/hlevkin/02imageprocC/Digital_Image_Processing_2ndEd.pdf'
+        - label: Literature 2
+          url: 'https://archive.org/details/imageprocessingh0006edruss'
+        - label: Literature 3
+          url: 'https://dokumen.pub/the-image-processing-handbook-7nbsped-9781498740289-1498740286.html'
+      other_resources: []
+    local_books:
+      - title: 'A Computational Introduction to Digital Image Processing'
+        file_name: 'dlfeb.com.A.Computational.Introduction.to.Digital.Image.Processing.Second.Edition.pdf'
+        path: 'books/vision-stack/image-processing/dlfeb.com.A.Computational.Introduction.to.Digital.Image.Processing.Second.Edition.pdf'
+      - title: 'Gonzalez and Woods Digital Image Processing'
+        file_name: 'Gonzalez R., Woods R. Digital Image Processing Global 4ed 2018.pdf'
+        path: 'books/vision-stack/image-processing/Gonzalez R., Woods R. Digital Image Processing Global 4ed 2018.pdf'
+      - title: 'Introduction to Digital Image Processing by William K Pratt'
+        file_name: 'Introduction to Digital Image Processing by William K. Pratt.pdf'
+        path: 'books/vision-stack/image-processing/Introduction to Digital Image Processing by William K. Pratt.pdf'
+      - title: 'The Image Processing Handbook'
+        file_name: 'The Image Processing Handbook, Fifth Edition by John C. Russ (z-lib.org).pdf'
+        path: 'books/vision-stack/image-processing/The Image Processing Handbook, Fifth Edition by John C. Russ (z-lib.org).pdf'
+
+  - id: computer-vision
+    title: Computer Vision
+    domain: vision-stack
+    readme_path: 'areas/vision-stack/computer-vision/README.md'
+    local_books_dir: 'books/vision-stack/computer-vision'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://scenerepresentations.org/courses/2025/spring/advances-in-cv/'
+        - label: Course 2
+          url: 'https://web.stanford.edu/class/cs231a/syllabus.html'
+      literature:
+        - label: Literature 1
+          url: 'http://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf'
+        - label: Literature 2
+          url: 'https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Computer%20Vision/Computer%20Vision%20A%20Modern%20Approach%20-%20Forsyth%20%2C%20Ponce.pdf'
+      other_resources: []
+    local_books:
+      - title: 'Computer Vision A Modern Approach'
+        file_name: 'Computer Vision A Modern Approach - Forsyth , Ponce.pdf'
+        path: 'books/vision-stack/computer-vision/Computer Vision A Modern Approach - Forsyth , Ponce.pdf'
+      - title: 'Multiple View Geometry in Computer Vision'
+        file_name: 'Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf'
+        path: 'books/vision-stack/computer-vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf'
+
+  - id: machine-vision
+    title: Machine Vision
+    domain: vision-stack
+    readme_path: 'areas/vision-stack/machine-vision/README.md'
+    local_books_dir: 'books/vision-stack/machine-vision'
+    resources:
+      courses:
+        - label: Course 1
+          url: 'https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O'
+        - label: Course 2
+          url: 'https://ocw.mit.edu/courses/6-801-machine-vision-fall-2004/'
+        - label: Course 3
+          url: 'https://ocw.mit.edu/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/'
+        - label: Course 4
+          url: 'https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16'
+      literature:
+        - label: Literature 1
+          url: 'https://www.cl72.org/090imagePLib/books/sonka,hlavac,boyle-imageProc.pdf'
+      other_resources:
+        - label: Resource 1
+          url: 'https://arxiv.org/abs/2010.11929'
+        - label: Resource 2
+          url: 'https://arxiv.org/abs/2005.12872'
+        - label: Resource 3
+          url: 'https://arxiv.org/abs/1703.06870'
+        - label: Resource 4
+          url: 'https://arxiv.org/abs/1505.04597'
+        - label: Resource 5
+          url: 'https://arxiv.org/abs/2104.14294'
+        - label: Resource 6
+          url: 'https://arxiv.org/abs/2104.13963'
+        - label: Resource 7
+          url: 'https://arxiv.org/abs/2002.05709'
+        - label: Resource 8
+          url: 'https://arxiv.org/abs/1911.05722'
+        - label: Resource 9
+          url: 'https://arxiv.org/abs/1503.02531'
+        - label: Resource 10
+          url: 'https://arxiv.org/abs/2006.11239'
+        - label: Resource 11
+          url: 'https://arxiv.org/abs/2210.02747'
+        - label: Resource 12
+          url: 'https://arxiv.org/abs/1703.10593'
+        - label: Resource 13
+          url: 'https://www.semanticscholar.org/paper/Geometric-Deep-Learning%3A-Grids%2C-Groups%2C-Graphs%2C-and-Bronstein-Bruna/14014c024674991149f3ecf9314c93f7e029ef1a'
+        - label: Resource 14
+          url: 'https://arxiv.org/abs/2001.05566'
+    local_books:
+      - title: 'Sonka Hlavac Boyle'
+        file_name: 'sonka,hlavac,boyle.pdf'
+        path: 'books/vision-stack/machine-vision/sonka,hlavac,boyle.pdf'
