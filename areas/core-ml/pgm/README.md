@@ -6,7 +6,8 @@ Probabilistic Graphical Models combine probability with graph structure to repre
 
 - Domain: [Core ML](../README.md)
 - Typical prerequisites: [Probability and Statistics](../../core-math/probability-and-statistics/README.md), [Graph Theory](../../core-math/graph-theory/README.md)
-- Supports: [Machine Learning](../machine-learning/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md)
+- Supports: [Computer Vision](../../vision-stack/computer-vision/README.md), [Deep Learning](../deep-learning/README.md)
+- Prerequisite for: [Computer Vision](../../vision-stack/computer-vision/README.md), [Deep Learning](../deep-learning/README.md)
 
 ## Resources
 

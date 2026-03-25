@@ -6,7 +6,8 @@ Numerical Optimization studies gradient methods, constrained optimization, conve
 
 - Domain: [Core Optimization and Signals](../README.md)
 - Typical prerequisites: [Linear Algebra](../../core-math/linear-algebra/README.md), [Real Analysis](../../core-math/real-analysis/README.md)
-- Supports: [Machine Learning](../../core-ml/machine-learning/README.md), [Deep Learning](../../core-ml/deep-learning/README.md)
+- Supports: [Machine Learning](../../core-ml/machine-learning/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md)
+- Prerequisite for: [Machine Learning](../../core-ml/machine-learning/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md)
 
 ## Resources
 

@@ -5,7 +5,8 @@ Real Analysis builds precision around limits, continuity, differentiation, integ
 ## Position In The Map
 
 - Domain: [Core Math](../README.md)
-- Supports: [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Functional Analysis](../functional-analysis/README.md), [Deep Learning](../../core-ml/deep-learning/README.md)
+- Supports: [Machine Learning](../../core-ml/machine-learning/README.md), [Functional Analysis](../functional-analysis/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md), [Image Processing](../../vision-stack/image-processing/README.md)
+- Prerequisite for: [Machine Learning](../../core-ml/machine-learning/README.md), [Functional Analysis](../functional-analysis/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md), [Image Processing](../../vision-stack/image-processing/README.md)
 
 ## Resources
 

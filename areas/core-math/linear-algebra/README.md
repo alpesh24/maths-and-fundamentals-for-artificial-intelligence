@@ -5,7 +5,8 @@ Linear Algebra is the main language of modern AI. Vectors, matrices, projections
 ## Position In The Map
 
 - Domain: [Core Math](../README.md)
-- Supports: [Machine Learning](../../core-ml/machine-learning/README.md), [Deep Learning](../../core-ml/deep-learning/README.md), [Image Processing](../../vision-stack/image-processing/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md)
+- Supports: [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md), [Image Processing](../../vision-stack/image-processing/README.md), [Machine Learning](../../core-ml/machine-learning/README.md), [Functional Analysis](../functional-analysis/README.md)
+- Prerequisite for: [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md), [Image Processing](../../vision-stack/image-processing/README.md), [Machine Learning](../../core-ml/machine-learning/README.md), [Functional Analysis](../functional-analysis/README.md)
 
 ## Resources
 

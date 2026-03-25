@@ -6,6 +6,7 @@ Algorithms provide the baseline language for efficient computation, problem solv
 
 - Domain: [Core CS](../README.md)
 - Supports: [Graph Theory](../../core-math/graph-theory/README.md), [Computational Geometry](../computational-geometry/README.md), [Discrete Optimization](../discrete-optimization/README.md)
+- Prerequisite for: [Graph Theory](../../core-math/graph-theory/README.md), [Computational Geometry](../computational-geometry/README.md), [Discrete Optimization](../discrete-optimization/README.md)
 
 ## Resources
 

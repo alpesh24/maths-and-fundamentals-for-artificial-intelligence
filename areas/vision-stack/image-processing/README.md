@@ -5,8 +5,9 @@ Image Processing focuses on filtering, enhancement, restoration, transforms, and
 ## Position In The Map
 
 - Domain: [Vision Stack](../README.md)
-- Typical prerequisites: [Linear Algebra](../../core-math/linear-algebra/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md)
-- Supports: [Computer Vision](../computer-vision/README.md), [Machine Vision](../machine-vision/README.md)
+- Typical prerequisites: [Real Analysis](../../core-math/real-analysis/README.md), [Linear Algebra](../../core-math/linear-algebra/README.md), [Signals and Systems](../../core-optimization-signals/signals-and-systems/README.md)
+- Supports: [Computer Vision](../computer-vision/README.md)
+- Prerequisite for: [Computer Vision](../computer-vision/README.md)
 
 ## Resources
 

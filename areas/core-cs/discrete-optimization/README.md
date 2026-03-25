@@ -7,6 +7,7 @@ Discrete Optimization covers combinatorial decision making, exact methods, and s
 - Domain: [Core CS](../README.md)
 - Typical prerequisites: [Algorithms](../algorithms/README.md)
 - Supports: [Computer Vision](../../vision-stack/computer-vision/README.md), [Machine Learning](../../core-ml/machine-learning/README.md)
+- Prerequisite for: [Computer Vision](../../vision-stack/computer-vision/README.md), [Machine Learning](../../core-ml/machine-learning/README.md)
 
 ## Resources
 

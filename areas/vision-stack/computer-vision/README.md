@@ -5,8 +5,9 @@ Computer Vision studies how to recover structure, objects, geometry, and semanti
 ## Position In The Map
 
 - Domain: [Vision Stack](../README.md)
-- Typical prerequisites: [Image Processing](../image-processing/README.md), [Machine Learning](../../core-ml/machine-learning/README.md), [Computational Geometry](../../core-cs/computational-geometry/README.md)
+- Typical prerequisites: [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Discrete Optimization](../../core-cs/discrete-optimization/README.md), [Computational Geometry](../../core-cs/computational-geometry/README.md), [Image Processing](../image-processing/README.md), [PGM](../../core-ml/pgm/README.md)
 - Supports: [Machine Vision](../machine-vision/README.md)
+- Prerequisite for: [Machine Vision](../machine-vision/README.md)
 
 ## Resources
 

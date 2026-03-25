@@ -5,8 +5,9 @@ Signals and Systems provides the language of transforms, filtering, convolution,
 ## Position In The Map
 
 - Domain: [Core Optimization and Signals](../README.md)
-- Typical prerequisites: [Linear Algebra](../../core-math/linear-algebra/README.md)
-- Supports: [Image Processing](../../vision-stack/image-processing/README.md), [Machine Learning](../../core-ml/machine-learning/README.md)
+- Typical prerequisites: [Real Analysis](../../core-math/real-analysis/README.md), [Linear Algebra](../../core-math/linear-algebra/README.md)
+- Supports: [Image Processing](../../vision-stack/image-processing/README.md)
+- Prerequisite for: [Image Processing](../../vision-stack/image-processing/README.md)
 
 ## Resources
 

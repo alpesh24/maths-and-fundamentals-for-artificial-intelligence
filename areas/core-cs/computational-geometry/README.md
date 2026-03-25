@@ -7,6 +7,7 @@ Computational Geometry studies geometric algorithms and representations. It is o
 - Domain: [Core CS](../README.md)
 - Typical prerequisites: [Algorithms](../algorithms/README.md)
 - Supports: [Computer Vision](../../vision-stack/computer-vision/README.md)
+- Prerequisite for: [Computer Vision](../../vision-stack/computer-vision/README.md)
 
 ## Resources
 

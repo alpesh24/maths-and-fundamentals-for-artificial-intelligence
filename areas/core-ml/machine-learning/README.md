@@ -5,8 +5,9 @@ Machine Learning brings together linear algebra, probability, optimization, and 
 ## Position In The Map
 
 - Domain: [Core ML](../README.md)
-- Typical prerequisites: [Linear Algebra](../../core-math/linear-algebra/README.md), [Probability and Statistics](../../core-math/probability-and-statistics/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md)
-- Supports: [Deep Learning](../deep-learning/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md), [Machine Vision](../../vision-stack/machine-vision/README.md)
+- Typical prerequisites: [Real Analysis](../../core-math/real-analysis/README.md), [Linear Algebra](../../core-math/linear-algebra/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md), [Statistical Learning](../statistical-learning/README.md), [Discrete Optimization](../../core-cs/discrete-optimization/README.md)
+- Supports: [Deep Learning](../deep-learning/README.md)
+- Prerequisite for: [Deep Learning](../deep-learning/README.md)
 
 ## Resources
 

@@ -5,7 +5,8 @@ Probability and Statistics provide the framework for modeling uncertainty, estim
 ## Position In The Map
 
 - Domain: [Core Math](../README.md)
-- Supports: [Statistical Learning](../../core-ml/statistical-learning/README.md), [Machine Learning](../../core-ml/machine-learning/README.md), [PGM](../../core-ml/pgm/README.md)
+- Supports: [Statistical Learning](../../core-ml/statistical-learning/README.md), [PGM](../../core-ml/pgm/README.md)
+- Prerequisite for: [Statistical Learning](../../core-ml/statistical-learning/README.md), [PGM](../../core-ml/pgm/README.md)
 
 ## Resources
 

@@ -6,7 +6,6 @@ Machine Vision sits at the top of the visual pipeline and emphasizes integrated 
 
 - Domain: [Vision Stack](../README.md)
 - Typical prerequisites: [Computer Vision](../computer-vision/README.md), [Deep Learning](../../core-ml/deep-learning/README.md)
-- Builds on: [Image Processing](../image-processing/README.md), [Machine Learning](../../core-ml/machine-learning/README.md)
 
 ## Resources
 

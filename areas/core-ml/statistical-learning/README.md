@@ -7,6 +7,7 @@ Statistical Learning focuses on supervised learning foundations, bias-variance t
 - Domain: [Core ML](../README.md)
 - Typical prerequisites: [Probability and Statistics](../../core-math/probability-and-statistics/README.md)
 - Supports: [Machine Learning](../machine-learning/README.md)
+- Prerequisite for: [Machine Learning](../machine-learning/README.md)
 
 ## Resources
 

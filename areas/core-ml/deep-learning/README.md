@@ -5,8 +5,9 @@ Deep Learning extends machine learning with layered representation learning, dif
 ## Position In The Map
 
 - Domain: [Core ML](../README.md)
-- Typical prerequisites: [Machine Learning](../machine-learning/README.md), [Linear Algebra](../../core-math/linear-algebra/README.md), [Numerical Optimization](../../core-optimization-signals/numerical-optimization/README.md)
-- Supports: [Machine Vision](../../vision-stack/machine-vision/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md)
+- Typical prerequisites: [PGM](../pgm/README.md), [Functional Analysis](../../core-math/functional-analysis/README.md), [Machine Learning](../machine-learning/README.md)
+- Supports: [Machine Vision](../../vision-stack/machine-vision/README.md)
+- Prerequisite for: [Machine Vision](../../vision-stack/machine-vision/README.md)
 
 ## Resources
 

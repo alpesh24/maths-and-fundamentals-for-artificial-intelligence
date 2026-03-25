@@ -5,8 +5,9 @@ Functional Analysis extends linear algebra and analysis into infinite-dimensiona
 ## Position In The Map
 
 - Domain: [Core Math](../README.md)
-- Typical prerequisites: [Linear Algebra](../linear-algebra/README.md), [Real Analysis](../real-analysis/README.md)
-- Supports: [Deep Learning](../../core-ml/deep-learning/README.md), [Machine Vision](../../vision-stack/machine-vision/README.md)
+- Typical prerequisites: [Real Analysis](../real-analysis/README.md), [Linear Algebra](../linear-algebra/README.md)
+- Supports: [Deep Learning](../../core-ml/deep-learning/README.md)
+- Prerequisite for: [Deep Learning](../../core-ml/deep-learning/README.md)
 
 ## Resources
 

@@ -6,7 +6,8 @@ Graph Theory provides the language of relational structure, networks, and combin
 
 - Domain: [Core Math](../README.md)
 - Typical prerequisites: [Algorithms](../../core-cs/algorithms/README.md)
-- Supports: [PGM](../../core-ml/pgm/README.md), [Computer Vision](../../vision-stack/computer-vision/README.md)
+- Supports: [PGM](../../core-ml/pgm/README.md)
+- Prerequisite for: [PGM](../../core-ml/pgm/README.md)
 
 ## Resources
 
